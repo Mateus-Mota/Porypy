@@ -19,6 +19,7 @@ O **Porypy** é um bot de organização pessoal que roda no Discord, permitindo 
 **Ícone oficial do Porypy:**
 
 <img src="assets/porypy_icon.svg" alt="Porypy Icon" width="100" />
+<img src="assets/porypy_icon_with_checklist.svg" alt="Porypy Icon" width="100" />
 
 <br><br>
 
