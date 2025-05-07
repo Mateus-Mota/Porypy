@@ -3,7 +3,7 @@
 
 > Um bot modular em Python para o Discord com foco em **organização pessoal**, **planejamento financeiro** e **gestão de metas**, incluindo a jornada até o **primeiro imóvel**.
 
----
+<br><br>
 
 ## ✨ Visão Geral
 
@@ -12,7 +12,7 @@ O **Porypy** é um bot de organização pessoal que roda no Discord, permitindo 
 🎯 **Objetivo inicial:** auxiliar pessoas que desejam comprar seu primeiro imóvel a se organizarem financeiramente e por metas.  
 ⚙️ **Escopo atual:** expandido para cobrir organização pessoal e planejamento de rotina.
 
----
+<br><br>
 
 ## 🖼️ Identidade Visual
 
@@ -20,7 +20,7 @@ O **Porypy** é um bot de organização pessoal que roda no Discord, permitindo 
 
 <img src="assets/porypy_icon.svg" alt="Porypy Icon" width="100" />
 
----
+<br><br>
 
 ## 📁 Estrutura do Projeto
 
@@ -45,7 +45,7 @@ PorypyBot/
 └── README.md            # Documentação do projeto
 ```
 
----
+<br><br>
 
 ## 🧩 Funcionalidades
 
@@ -66,7 +66,7 @@ PorypyBot/
 | 🧑‍💼 | `settings.py` | Personalização do bot por usuário |
 | 🌐 | `config.py` | Suporte a múltiplos servidores e usuários |
 
----
+<br><br>
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -89,7 +89,7 @@ Além da busca pelo primeiro imóvel, o bot se propõe a:
 - ✅ Gerenciar links, eventos e observações úteis
 - ✅ Operar totalmente via comandos no Discord
 
----
+<br><br>
 
 ## 🚀 Como Rodar Localmente
 
@@ -102,13 +102,13 @@ docker run --env-file .env porypy
 
 > 💡 Configure o seu token e prefixo em `config.py`
 
----
+<br><br>
 
 ## 📌 Licença
 
 Este projeto está sob a licença MIT — veja o arquivo [LICENSE](LICENSE) para detalhes.
 
----
+<br><br>
 
 ## 💬 Contato
 
