@@ -13,6 +13,8 @@ class PorypyClient(commands.Bot):
     async def setup_hook(self):
         # Carrega as extensões, como comandos
         await self.load_extension("extensions.commands.basic")
+        await self.load_extension("extensions.commands.tasks")
+        await self.tree.sync()
 
     async def on_ready(self):
         print(f"Bot {self.user} está online!")
